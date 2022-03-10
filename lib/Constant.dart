@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+const redColor=Color(0xffE50C0C);
+const placeholderColor=Color(0xffA1A1A1);
+const blacklight=Color(0xff192641);
+const maincolor=Color(0xff5857C2);
+const backgroundColor=Color(0xffF8F8FF);
+const appleColor=Color(0xff000000);
+const blacktextColor=Color(0xff172331);
+const googleColor=Color(0xffFF4B26);
+const facebookColor=Color(0xffFF4B26);

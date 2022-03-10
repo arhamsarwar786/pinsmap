@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "990227012394",
+    "firebase_url": "https://pinsmap-7307c-default-rtdb.firebaseio.com",
+    "project_id": "pinsmap-7307c",
+    "storage_bucket": "pinsmap-7307c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990227012394:android:d467b8bb76f58994f19c53",
+        "android_client_info": {
+          "package_name": "com.ziad1.pinsmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990227012394-a40b6s183f330ntm99jj2vc8oi5ra3qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziad1.pinsmap",
+            "certificate_hash": "c3310bbcaa23ca58afcd70fa4ea6f62152a6138c"
+          }
+        },
+        {
+          "client_id": "990227012394-p0rrfl40l9f724srpop8ckq7tg806gib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziad1.pinsmap",
+            "certificate_hash": "4cd5403ddcf73086ad0a793495ed62398c39dd29"
+          }
+        },
+        {
+          "client_id": "990227012394-vssojbuheqhj7k11fa6ir4ev5chlff7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziad1.pinsmap",
+            "certificate_hash": "8417d6c73a790a72d43568357ee7f832256aa1ad"
+          }
+        },
+        {
+          "client_id": "990227012394-m2rtlif8b7mmcglsrddqo54tpveuqm2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSbdJNJ5zgsgbM_HdbJJNAuZ-4ldME19I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990227012394-m2rtlif8b7mmcglsrddqo54tpveuqm2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990227012394-scjgbug00hun7s3m5mvlita9t1plkesm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ziad1.pinsmap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

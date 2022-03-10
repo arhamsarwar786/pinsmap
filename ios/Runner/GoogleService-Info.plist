@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>990227012394-scjgbug00hun7s3m5mvlita9t1plkesm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.990227012394-scjgbug00hun7s3m5mvlita9t1plkesm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>990227012394-a40b6s183f330ntm99jj2vc8oi5ra3qs.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRlJpYMexq1PYGvaiFVfpZWEYWqICNSWY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>990227012394</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ziad1.pinsmap</string>
+	<key>PROJECT_ID</key>
+	<string>pinsmap-7307c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pinsmap-7307c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:990227012394:ios:779c7d80000221d1f19c53</string>
+	<key>DATABASE_URL</key>
+	<string>https://pinsmap-7307c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

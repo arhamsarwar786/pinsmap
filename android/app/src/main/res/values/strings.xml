@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">pinsmap</string>
+<string name="facebook_app_id">475035141027515</string>
+<string name="fb_login_protocol_scheme">f475035141027515</string>
+<string name="facebook_client_token">da7b60d832ec90c86192b651509cdd81</string>
+</resources>
